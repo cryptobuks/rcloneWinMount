@@ -5,7 +5,7 @@ rclone Mount implementation via Dokan-dotnet
 2. Setup rclone
 3. Run `rcloneWinMount.exe remotename:`
 4. Point Plex at S:\ Drive
-5. Expect bad performance and bluescreens7
+5. Expect bad performance and bluescreens
 
 Runs best on win10
 
